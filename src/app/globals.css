@@ -123,3 +123,13 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Orange theme colors */
+:root {
+  --orange: #ff6b35;
+  --orange-light: #ff8c5a;
+  --orange-dark: #e55a2b;
+  --beige: #f5f5dc;
+  --dark-bg: #1a1a1a;
+  --dark-card: #2a2a2a;
+}
